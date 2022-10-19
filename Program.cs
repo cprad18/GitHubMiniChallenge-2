@@ -6,6 +6,7 @@
 //And display the sum in the console 
 
 //Must add #DataValidation and #PlayAgain feature 
+//DataValidation Example in original MiniChallengeGuessIT
 
 Console.Clear();
 
