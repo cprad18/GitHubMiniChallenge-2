@@ -10,6 +10,9 @@
 
 Console.Clear();
 
+string playAgain = "yes";
+while(playAgain == "yes"){
+
 Console.WriteLine("Let's add two numbers!");
 Console.WriteLine("Enter your first number");
 string numberOne = Console.ReadLine();
@@ -23,4 +26,14 @@ int num2 = Convert.ToInt32(numberTwo);
 
 
 Console.WriteLine("Your sum is:" + (num1 + num2));
+
+Console.WriteLine("Would you like to play the game again? >:]");
+playAgain = Console.ReadLine();
+if(playAgain == "yes"){
+    Console.WriteLine("Alrighty then, Let's play again");
+}else{
+    Console.WriteLine("Have a great day >:]");
+}
+
+}
 
