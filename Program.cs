@@ -7,6 +7,7 @@
 
 //Must add #DataValidation and #PlayAgain feature 
 //DataValidation Example in original MiniChallengeGuessIT
+//Peer Review: Sean Aguirre-Reyes 
 
 Console.Clear();
 
