@@ -1,5 +1,5 @@
 ﻿//Christopher Prado
-//09-07-2022
+//Date Revised: 20OCT22
 //Mini Challenge #2 "Add 2 numbers"
 //We have a challenge where we want to add two numbers
 //We wil take the users input and add those numbers
